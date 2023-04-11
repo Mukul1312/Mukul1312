@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/mukul_1312" target="blank"><img src="https://img.shields.io/twitter/follow/mukul_1312?logo=twitter&style=for-the-badge" alt="mukul_1312" /></a> </p>
 
-- 🔭 I’m currently working on [Crypto Tracker App](https://md-cryptoverse.netlify.app/)
+- 🔭 My Recent Project [Crypto Tracker App](https://md-cryptoverse.netlify.app/)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Redux Saga**
 
 - 💬 Ask me about **WEB , MERN**
 
 - 📫 How to reach me **mdubey.0433@gmail.com**
 
-- ⚡ Fun fact **I love to Chess**
+- ⚡ Fun fact **I love to Play Chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
