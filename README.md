@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **Redux Saga**
 
 - 💬 Ask me about **WEB , MERN**
+- 💻 Work Experience [Mukul_Intern_Certificate.pdf](https://github.com/Mukul1312/Mukul1312/files/11584762/Mukul_Intern_Certificate.pdf)
 
 - 📫 How to reach me **mdubey.0433@gmail.com**
 
