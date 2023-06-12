@@ -8,6 +8,7 @@
 - 🔭 My Recent Project [Crypto Tracker App](https://md-cryptoverse.netlify.app/)
 
 - 🌱 I’m currently learning **Redux Saga**
+-  👇Checkout my previous project and contributions in pinned section
 
 - 💬 Ask me about **WEB , MERN**
 - 💻 Work Experience [Mukul_Intern_Certificate.pdf](https://github.com/Mukul1312/Mukul1312/files/11584762/Mukul_Intern_Certificate.pdf)
