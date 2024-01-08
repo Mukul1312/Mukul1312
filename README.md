@@ -7,14 +7,13 @@
 
 - 🔭 My Recent Project [Crypto Tracker App](https://md-cryptoverse.netlify.app/)
 
-- 🌱 I’m currently learning **Redux Saga**
-- 👇 Checkout my previous project and contributions in pinned section
+- 🌱 I’m currently learning **Typescript**
+- 👇 Checkout my previous project and contributions in the pinned section
 
 - 💬 Ask me about **WEB , MERN**
 - 💻 Work Experience [Mukul_Intern_Certificate.pdf](https://github.com/Mukul1312/Mukul1312/files/11584762/Mukul_Intern_Certificate.pdf)
 
-- 📄 CV [Mukul's Resume.pdf](https://github.com/Mukul1312/Mukul1312/files/11930296/Mukul.s.Resume.pdf)
-
+- 📄 Resume [Mukul_Dubey.pdf](https://github.com/Mukul1312/Mukul1312/files/13856503/Mukul_Dubey.pdf)
 
 - 📫 How to reach me **mdubey.0433@gmail.com**
 
